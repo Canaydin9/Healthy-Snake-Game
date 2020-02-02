@@ -10,4 +10,4 @@ This a game developed for the AP Computer Science A course in Hisar School in Is
 
 
 # How to play the game
-This game is a derivation of the classic snake game. Eating the healthy food (broccoli) is just like eating the food in the classic snake game, it increases the score by 10 and increases the snake size by 1. Eating the hamburgers however
+This game is a derivation of the classic snake game. Eating the healthy food (broccoli) is just like eating the food in the classic snake game, it increases the score by 10 and increases the snake size by 1. Eating the hamburgers however decreases the score by 10 and decreases the snake size by 1.
